@@ -1,0 +1,54 @@
+#ig {width: 200px;
+    height: 200px;   
+}
+body{background-color: #e5e5e5;}
+
+#Kaos {background-color: rgb(72, 72, 72);
+width: 1520px;
+border-radius: 10px;display: flex; 
+justify-content: center; align-items: center; 
+height: 400px; 
+}
+
+#textoig{padding-left:12px;
+margin:5px;}
+
+#youtube{
+height: 250px;
+width: 250px;}
+
+#textoyt{padding-left: 50px;
+margin-top: -25px;}
+
+#div1{display: flex; 
+margin-left: 20px;
+height: 220px;
+width:220px 
+;position: absolute;
+}
+
+#div2{display: flex;
+margin-left: 300px;
+height: 220px;
+width: 22px;
+position: absolute;
+margin-top: -25px;
+}
+#K4OS{font-size: 100px;
+text-align: center;
+font-family: "Archivo Black";
+font-weight: 100PX;
+font-style: normal;
+color: #ffffff;
+place-items: center;
+}
+#div0{width: 800px;
+height: 200px;
+background-color: rgb(83, 83, 83);
+border-radius: 60%;
+border: solid 10px rgba(134, 134, 141, 0.847);
+justify-content: center;
+align-items: center;
+margin: auto;
+display: grid;
+place-content: center;}
