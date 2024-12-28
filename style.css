@@ -11,7 +11,7 @@ height: 400px;
 }
 
 #textoig{padding-left:12px;
-margin:5px;}
+margin: 20px}
 
 #youtube{
 height: 250px;
@@ -21,7 +21,7 @@ width: 250px;}
 margin-top: -25px;}
 
 #div1{display: flex; 
-margin-left: 20px;
+margin-left: 80px;
 height: 220px;
 width:220px 
 ;position: absolute;
